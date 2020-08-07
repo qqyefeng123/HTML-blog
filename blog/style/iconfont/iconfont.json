@@ -1,0 +1,37 @@
+{
+  "id": "1991884",
+  "name": "素材",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "954213",
+      "name": "IE",
+      "font_class": "ie",
+      "unicode": "e72b",
+      "unicode_decimal": 59179
+    },
+    {
+      "icon_id": "1017253",
+      "name": "iOS",
+      "font_class": "ios",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "1898503",
+      "name": "android",
+      "font_class": "android",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "12600694",
+      "name": "eot",
+      "font_class": "eot",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    }
+  ]
+}
